@@ -1,7 +1,7 @@
 # HIT-PROJECT
 Welcome to the official GitHub repository for HIT!
 
-HIT is a powerful and user-friendly application that was designed to provide detailed insights into your PC's hardware components and system performance. While the project is no longer actively maintained and the application is no longer available for download, 
+HIT is a powerful and user-friendly application that was designed to catch cheaters in FiveM. While the project is no longer actively maintained and the application is no longer available for download, 
 we have decided to release the source code to the community.
 
 Features:
